@@ -163,7 +163,7 @@ div.play-again {
     border: 1px solid #94D7A2;
 }
 
-.incorrect-ans {
+.selected.incorrect-ans {
     background-color: #F8BCBC;
     color: #7E84A2;
 }
